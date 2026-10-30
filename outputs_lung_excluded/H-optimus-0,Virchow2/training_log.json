@@ -1,0 +1,59 @@
+{
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.1365290354011166,
+      "train_acc": 1.9580318956898466,
+      "val_loss": null,
+      "val_acc": null,
+      "bal_acc": null,
+      "f1_weighted": null,
+      "seconds": 96.02795433998108
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.128368777398188,
+      "train_acc": 1.9609457157739294,
+      "val_loss": null,
+      "val_acc": null,
+      "bal_acc": null,
+      "f1_weighted": null,
+      "seconds": 100.73482990264893
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.1251389499413547,
+      "train_acc": 1.96232041028626,
+      "val_loss": null,
+      "val_acc": null,
+      "bal_acc": null,
+      "f1_weighted": null,
+      "seconds": 92.33824181556702
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.1230263612821774,
+      "train_acc": 1.9633484225727615,
+      "val_loss": null,
+      "val_acc": null,
+      "bal_acc": null,
+      "f1_weighted": null,
+      "seconds": 96.80292248725891
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.1218657183384955,
+      "train_acc": 1.963695567651633,
+      "val_loss": null,
+      "val_acc": null,
+      "bal_acc": null,
+      "f1_weighted": null,
+      "seconds": 93.24456238746643
+    }
+  ],
+  "best_val_acc": 0.0,
+  "test_organ": "lung",
+  "test_acc": 0.777298403238002,
+  "test_bal_acc": 0.8238694735179549,
+  "test_f1": 0.7828137021176523
+}
