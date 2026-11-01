@@ -1,0 +1,6 @@
+# Shared dependencies
+-r visualization_requirements.txt
+
+# Additional training dependencies
+tqdm
+git+https://github.com/mahmoodlab/CONCH.git

@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# External datasets and extracted features
+/Data/
+/data/
+/trident/
+
+# Segmentation dataset distributed separately
+/segmentations/
+/segmentations.zip
+/segmentations.zip.part-*
